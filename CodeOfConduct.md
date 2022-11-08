@@ -1,10 +1,10 @@
 ---
-title: Code of conduct - Azure Data Community User Groups
-description: Code of conduct for participating groups of the Azure Data Tech Groups program
+title: Code of conduct - Atlanta Azure Data User Group
+description: Code of conduct for anyone participating in the Atlanta Azure Data User Group
 author: riirish
 ms.author: riirish
 ms.topic: Code of Conduct
-ms.service: azure
+ms.service: azure data
 ms.date: 11/08/2022
 ---
 
@@ -17,15 +17,16 @@ Our user group is open to both technical and business-minded professionals.  We 
 ### Code of Conduct for leaders and attendees
 
 As event and experience organizers, we seek to provide a **respectful, friendly, professional experience for everyone, regardless of their gender, sexual orientation, physical appearance, disability, age, race, or religion**. We do not tolerate any behavior that is degrading to any gender, race, sexual orientation, or disability, nor do we tolerate any behavior that would be deemed harassment or discrimination. Individuals are responsible for knowing and abiding by our standards and we encourage everyone to assist in creating a safe and welcoming environment.
-Please report any concerns, suspicious activity, or disruptive behavior to the Azure Data Community team so we can address issues immediately.
+
+Please report any concerns, suspicious activity, or disruptive behavior to the Atlanta Azure Data team so we can address issues immediately.
 
 ### All group members should abide by the following:
 
 ### During any event, meeting or presentation
 
-* Respect the presenter and other attendees
+* **Respect the presenter and other attendees**
 
-* No disrespectful behavior. This includes threats, harassment, stalking, abuse, slurs, profanity, personal attacks, sexual remarks or innuendos, physical violence, public speculation about others, and any other behavior that you would not tolerate others display towards you.
+* **No disrespectful behavior.** This includes threats, harassment, stalking, abuse, slurs, profanity, personal attacks, sexual remarks or innuendos, physical violence, public speculation about others, and any other behavior that you would not tolerate others display towards you.
 
 * Refrain from carrying on conversations during the presentation. If conversation is necessary, please leave the presentation room
 
@@ -37,21 +38,21 @@ Please report any concerns, suspicious activity, or disruptive behavior to the A
 
 ### At all times
 
-* No impersonations of a Microsoft or user group employee, agent, manager, host, or another user.
+* **No impersonations** of a Microsoft or user group employee, agent, manager, host, or another user.
 
-* No illegal or offensive activities. Members will not publish, post, distribute, or disseminate defamatory, infringing, obscene, or other unlawful material or discussion in any group forum or post. This includes, but is not limited to, child pornography, bestiality, incest, illegal drugs, software piracy, discriminatory/racist statements or images and harassment.
+* **No illegal or offensive activities.** Members will not publish, post, distribute, or disseminate defamatory, infringing, obscene, or other unlawful material or discussion in any group forum or post. This includes, but is not limited to, child pornography, bestiality, incest, illegal drugs, software piracy, discriminatory/racist statements or images and harassment.
 
-* Accountability. Members are fully responsible and liable for anything they say (whether orally or in writing) or do. This includes any actions taken based on advice or information received in presentations, online forums or elsewhere. Remember, always test what you plan to do, regardless of the source of the information.
+* **Accountability.** Members are fully responsible and liable for anything they say (whether orally or in writing) or do. This includes any actions taken based on advice or information received in presentations, online forums or elsewhere. Remember, always test what you plan to do, regardless of the source of the information.
 
-* No libel or slander against the user group, Microsoft or other persons or entities. Libel includes false statements made in written form, such as statements posted to forums or other publicly accessible websites, electronic mail, or any other printed form.
+* **No libel or slander** against the user group, Microsoft or other persons or entities. Libel includes false statements made in written form, such as statements posted to forums or other publicly accessible websites, electronic mail, or any other printed form.
 
-* No confidentiality violations. Members may inadvertently gain access to certain non-public information during their participation in the group and are expected to honor the confidentiality of the information.
+* **No confidentiality violations.** Members may inadvertently gain access to certain non-public information during their participation in the group and are expected to honor the confidentiality of the information.
 
-* No plagiarism. Members may post their own original work or work that they have written permission to post. If a member cites another author’s work, please provide any necessary attribution according to the requirements associated with the original author’s work. Learn more about copyright at: https://www.microsoft.... (https://www.microsoft...)
+* **No plagiarism.** Members may post their own original work or work that they have written permission to post. If a member cites another author’s work, please provide any necessary attribution according to the requirements associated with the original author’s work. Learn more about copyright at: https://www.microsoft.com/en-us/legal/intellectualproperty/copyright
 
-* No discrimination or harassment. This user group is committed to providing a harassment-free experience to members regardless of age, ancestry, color, gender identity or expression, marital status, medical condition, national origin, physical size, physical or mental disability, political affiliation, veteran status, race, religion, sex (including pregnancy), sexual orientation, or technology choices. Harassment is unwelcome verbal, physical or virtual behavior based on the characteristics identified above.
+* **No discrimination or harassment.** This user group is committed to providing a harassment-free experience to members regardless of age, ancestry, color, gender identity or expression, marital status, medical condition, national origin, physical size, physical or mental disability, political affiliation, veteran status, race, religion, sex (including pregnancy), sexual orientation, or technology choices. Harassment is unwelcome verbal, physical or virtual behavior based on the characteristics identified above.
 
-* No sexual harassment. Sexual harassment is unwelcome verbal, physical or virtual behavior based on sex and includes gender-based harassment of a person of the same or different gender. Examples of sexual harassment include, but are not limited to:
+* **No sexual harassment.** Sexual harassment is unwelcome verbal, physical or virtual behavior based on sex and includes gender-based harassment of a person of the same or different gender. Examples of sexual harassment include, but are not limited to:
 
 * Unwelcome sexual advances
 
